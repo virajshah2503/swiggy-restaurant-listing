@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/swiggy-restaurants/static/css/main.84ddaaa8.chunk.css",
+    "main.js": "/swiggy-restaurants/static/js/main.6cfce094.chunk.js",
+    "main.js.map": "/swiggy-restaurants/static/js/main.6cfce094.chunk.js.map",
+    "runtime-main.js": "/swiggy-restaurants/static/js/runtime-main.b35662d3.js",
+    "runtime-main.js.map": "/swiggy-restaurants/static/js/runtime-main.b35662d3.js.map",
+    "static/js/2.a33d30aa.chunk.js": "/swiggy-restaurants/static/js/2.a33d30aa.chunk.js",
+    "static/js/2.a33d30aa.chunk.js.map": "/swiggy-restaurants/static/js/2.a33d30aa.chunk.js.map",
+    "index.html": "/swiggy-restaurants/index.html",
+    "precache-manifest.0198b45e33f6e3fd9bfaf0869b2bf94e.js": "/swiggy-restaurants/precache-manifest.0198b45e33f6e3fd9bfaf0869b2bf94e.js",
+    "service-worker.js": "/swiggy-restaurants/service-worker.js",
+    "static/css/main.84ddaaa8.chunk.css.map": "/swiggy-restaurants/static/css/main.84ddaaa8.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b35662d3.js",
+    "static/js/2.a33d30aa.chunk.js",
+    "static/css/main.84ddaaa8.chunk.css",
+    "static/js/main.6cfce094.chunk.js"
+  ]
+}
